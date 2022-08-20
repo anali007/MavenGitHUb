@@ -5,7 +5,6 @@
   <classes>
   <class name="com.anj.TCLoginTest"/>
   <class name="com.anj.TCLoginTest1"/>
-  <class name="com.anj.NewTest"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
